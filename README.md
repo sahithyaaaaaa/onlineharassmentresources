@@ -4,17 +4,13 @@
 
 ● About the Project:-
 The purpose of this project is to create a simple and easy-to-use website that helps people who are experiencing online harassment. Many people, especially teenagers and young adults, face problems such as cyberbullying, blackmail, impersonation, stalking, sharing of private images, fake accounts, and abusive messages. Unfortunately, many victims do not know where to seek help or what actions they should take first.
-
 This website was created to solve that problem by collecting trusted resources in one place. Instead of searching many different websites, users can find important reporting links, safety tips, child protection resources, legal information, government reporting portals, and mental health support on a single website.
-
 The website is designed to be simple, responsive, and easy to understand. The interface avoids unnecessary complexity so that anyone can navigate through the resources without confusion.
 
 
 ● Project Motivation:-
 The idea for this project came from the growing problem of online harassment around the world. Social media has become a major part of everyday life, but it has also created opportunities for cyberbullying, threats, impersonation, blackmail, and other forms of online abuse.
-
 Many victims feel confused after experiencing harassment. They may not know whether to report the offender, contact the police, improve their account security, or seek emotional support. This project aims to guide users through these steps by organizing the available resources into different categories.
-
 The main goal is not only to provide information but also to encourage victims to take action and understand that they are not alone.
 
 
